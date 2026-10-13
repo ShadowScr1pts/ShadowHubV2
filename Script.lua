@@ -1583,13 +1583,13 @@ Main:Paragraph({
             Buttons = {
             {
                 Title = "TikTok Account",
-                Icon = "geist:logo-tiktok",
+                Icon = "https://cdn.simpleicons.org/tiktok/FFFFFF",
                 Callback = function()
                     if setclipboard then
                         setclipboard("www.tiktok.com/@ttshadow__")
                         Window:Dialog({
                             Title = "TikTok Link Copied",
-                            Icon = "geist:logo-tiktok",
+                            Icon = "https://cdn.simpleicons.org/tiktok/FFFFFF",
                             Content = "TikTok link has been copied to your clipboard.",
                             Buttons = {
                                 { Title = "OK", Icon="check" }
