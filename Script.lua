@@ -1507,7 +1507,7 @@ WindUI:AddTheme({
 
 local Window = WindUI:CreateWindow({
     Title = "Shadow Hub",
-    Author = "by .dyw. on dc",
+    Author = "by 2dyw2 on dc",
     Folder = "ShadowHub",
     Theme = "Default",
     Icon = "https://raw.githubusercontent.com/orialdev2/Vision-Hub/refs/heads/main/Vision_Logo1.png",
