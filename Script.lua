@@ -1510,7 +1510,7 @@ local Window = WindUI:CreateWindow({
     Author = "by 2dyw2 on dc",
     Folder = "ShadowHub",
     Theme = "Default",
-    Icon = "https://raw.githubusercontent.com/orialdev2/Vision-Hub/refs/heads/main/Vision_Logo1.png",
+    Icon = "rbxassetid://135353181417413",
     IconSize = 50,
     NewElements = true,
     OpenButton = {
@@ -1578,7 +1578,7 @@ local Settings = Window:Tab({
 Main:Paragraph({
     Title = "Welcome to Shadow Hub!",
     Desc = "Thanks for using Shadow Hub, make sure to follow my tiktok.",
-    Thumbnail = "https://raw.githubusercontent.com/orialdev2/Vision-Hub/refs/heads/main/Vision.png",
+    Thumbnail = "rbxassetid://135353181417413",
     ThumbnailSize = 160,
             Buttons = {
             {
